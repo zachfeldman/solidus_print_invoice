@@ -37,7 +37,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'solidus_support', '~> 0.9'
   s.add_dependency 'deface'
   s.add_dependency 'prawn', '1.0.0'
-  s.add_dependency 'solidus', ['>= 1.0', '< 4']
 
   s.add_development_dependency 'solidus_dev_support'
 end
